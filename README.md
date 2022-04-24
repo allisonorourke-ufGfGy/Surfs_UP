@@ -11,4 +11,8 @@
 * The coldest that it got during the month of June was 8 degrese higher than the minimum in December. In June the minimum temperature was 64.0 degrees while in December ut got down to 56.0.
 
 * The max temperature between the two months was the most similar. For June the max temp was 85 and in December it was 83.
+
+### June temperature stats
 ![June](https://github.com/allisonorourke-ufGfGy/Surfs_UP/blob/main/Images/June%20describe.png)
+### December temperature stats
+![December](https://github.com/allisonorourke-ufGfGy/Surfs_UP/blob/main/Images/December%20describe.png)
