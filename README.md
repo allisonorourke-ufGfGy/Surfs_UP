@@ -7,7 +7,7 @@
 
 ## Results
 #### When comparing the results of June and December we are able to see a couple of key differences.
-* When comparing the means of the two months we are able to see that overall June has a higher average temperature. June has an average temperature of 74.94 degrees while December has an average of 71..04. This is not a drastic difference but June is slightly higer.
+* When comparing the means of the two months we are able to see that overall June has a higher average temperature. June has an average temperature of 74.94 degrees while December has an average of 71.04. This is not a drastic difference but June is slightly higer.
 
 * The coldest that it got during the month of June was 8 degrese higher than the minimum in December. In June the minimum temperature was 64.0 degrees while in December ut got down to 56.0.
 
@@ -19,3 +19,4 @@
 ![December](https://github.com/allisonorourke-ufGfGy/Surfs_UP/blob/main/Images/December%20describe.png)
 
 ## Summary
+#### When looking at the data between the two months we are able to see that Oahu would likely be a good place to build a shop. The difference between the averages between the two months us only about 4 degrees. The standard deviation is only  .5 difference so the vaurablilty between the two months is also not something of concern. The low in december is only 8 degrees lower than that in June which is not very significat as the highes are only 2 degrees apart. Overall the temperature variation between the two months is very minimal.
